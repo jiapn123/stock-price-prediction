@@ -1,4 +1,4 @@
-# 주가 예측 프로젝트 [전체 PPT 보기](https://www.canva.com/design/DAF6GWctPqM/2rxSDv_N5awC5rho7NgYcQ/edit)
+# RNN을 이용한 주가 예측 [전체 PPT 보기](https://www.canva.com/design/DAF6GWctPqM/2rxSDv_N5awC5rho7NgYcQ/edit)
 
 ### 1. 수행 절차: 
 1) DB 구축 -> 시세 조회 -> RNN 예측 
